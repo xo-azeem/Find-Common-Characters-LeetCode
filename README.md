@@ -18,6 +18,7 @@ My Solution Analysis:
 
 <div align = "center">
 
-  
+  ![image](https://github.com/xo-azeem/Find-Common-Characters-LeetCode/assets/171427226/c117856c-d95e-4bfd-bca0-0df1d2c03968)
+
   Time complexity: O(n^2).</br>Space complexity: O(1).
 </div>
